@@ -1,4 +1,4 @@
-# $FreeBSD: head/mail/py-alot/Makefile 514409 2019-10-13 16:10:34Z rakuco $
+# $FreeBSD$
 
 PORTNAME=	alot
 DISTVERSION=	0.9
